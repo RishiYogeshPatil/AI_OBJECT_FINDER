@@ -15,23 +15,11 @@ body
     font-size: 18px;
 }
 
-.copy_right_footer
-{
-    position: fixed;
-    color: whitesmoke;
-    bottom: 0;
-    width: 100%;
-    background-color: darkslategray;
-    line-height: 3;
-    text-align: center;
-    margin-top: 10px;
-}
-
 canvas
 {
     border: 2px solid white;
     border-radius: 10px;
-    margin-top: 130px;
+    margin-top: 150px;
     box-shadow: 5px 5px 5px whitesmoke;
 }
 
